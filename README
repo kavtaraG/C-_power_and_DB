@@ -1,0 +1,14 @@
+## *** ABOUT APP ***
+## app owner is Giorgi Kavtaradze
+
+## app
+	- this app measures power of any kind speakers
+	  from remote and measures A-weighted DB of sound
+	- this app uses thwo classes
+	- logarithmic functions and binominal probability
+	  formula;
+## how it works
+    - choise 1 which calculates speaker power
+	- choise 2 which calculates A-weighted DB sound
+	- to Quite have to press Q;
+ 
